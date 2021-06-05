@@ -2,5 +2,5 @@
 
 Tools untuk mengubah tampilan Termux:v
 
-- Youtube https://youtube.com/Din-zUgex95
+- Youtube https://youtube.com/channel/UC215JXrs2SwZGF7cvROKeVA
 
